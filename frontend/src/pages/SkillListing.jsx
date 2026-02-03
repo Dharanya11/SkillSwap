@@ -277,7 +277,7 @@ export default function SkillListing() {
 
               <div>
                 <label className="block text-sm font-semibold text-gray-700 mb-2">
-                  Time Slot (Meeting Time)
+                  Time Slot (1 hour)
                 </label>
                 <input
                   list="time-slots"
